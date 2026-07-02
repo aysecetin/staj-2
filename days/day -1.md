@@ -12,4 +12,4 @@ Galeri sayfasının boş görünmemesi için örnek kurumsal görseller ekledim.
   
 Web sitesinin responsive yapıda çalışması için Bootstrap ve özel CSS düzenlemeleri kullandım. Footer yapısında oluşan hizalama problemini giderdim. Kısa içerikli sayfalarda footer’ın düzgün konumlanmasını sağladım. Site genelinde sade, kurumsal ve yönetilebilir bir yapı oluşturmaya dikkat ettim.  
   
-Proje için README.md, .gitignore, .env.example ve requirements.txt dosyalarını hazırladım. Daha sonra projeyi Git deposu haline getirdim, ilk commit’i aldım ve GitHub’a yükleme sürecini tamamladım. Git kullanıcı bilgilerini düzenleyerek commitlerin doğru kullanıcı adıyla görünmesini sağladım.  
+Proje için README.md, .gitignore, .env.example ve requirements.txt dosyalarını hazırladım. Daha sonra projeyi Git deposu haline getirdim, ilk commit’i aldım ve GitHub’a yükleme sürecini tamamladım.   
