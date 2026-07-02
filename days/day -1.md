@@ -2,7 +2,7 @@
 
 Bugün Django tabanlı kurumsal bir web sitesi projesinin temel altyapısını geliştirdim. Projeyi, temizlik ürünleri ve toptan gıda satışı yapan bir firma için hazırladım. İlk olarak proje klasörünü oluşturdum, Django kurulumunu yaptım ve modüler bir proje yapısı hazırladım. static, media ve templates klasörlerini yapılandırdım. Sayfaların ortak alanları için base.html, header ve footer yapısını oluşturdum.  
   
-Web sitesinde ana sayfa, hakkımızda, ürünler/hizmetler, galeri ve iletişim sayfalarını hazırladım. Sayfaları Django template inheritance yapısına uygun şekilde düzenledim. Kullanıcıya görünen tüm metinleri Türkçe karakterlere uygun hale getirdim ve kurumsal bir dil kullanmaya dikkat ettim.  
+Web sitesinde ana sayfa, hakkımızda, ürünler/hizmetler, galeri ve iletişim sayfalarını hazırladım. Sayfaları Django template inheritance yapısına uygun şekilde düzenledim. Kullanıcıya görünen tüm metinleri Türkçe karakterlere uygun şekilde oluşturdum ve kurumsal bir dil kullanmaya dikkat ettim.  
   
 Admin panelinden yönetilebilecek içerikler için Django modelleri oluşturdum. Site ayarları, kategori bilgileri, ürün/hizmet kartları, galeri görselleri, güven veren bilgiler ve iletişim mesajları için ayrı modeller tanımladım. Görsel yükleme işlemleri için dosya formatı ve boyut kontrolü ekledim. Yüklenen görsellerin optimize edilmesini sağladım.  
   
