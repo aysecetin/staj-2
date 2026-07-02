@@ -16,7 +16,6 @@ Kullanıcı yönetimi tarafında farklı yetki seviyelerine sahip hesapların bu
 
 Sistemin kullanıcı deneyimini artıracak bazı özellikler de toplantıda gündeme geldi. Ürün arama süreçlerinin geliştirilmesi, harita üzerinden işletmelerin görüntülenebilmesi, ürün taleplerinin oluşturulabilmesi, favori ürünler ve bildirim sistemi gibi fonksiyonların ilerleyen sürümlerde eklenebileceği konuşuldu. Bunun yanında yapay zekâ destekli bazı özelliklerin (görsel veya ses ile arama, analiz desteği vb.) gelecekte projeye değer katabilecek geliştirmeler arasında yer alabileceği değerlendirildi.
 
-Toplantının son bölümünde sistemin web tabanlı olarak geliştirilmesi, Python teknolojileri ile ilerlenmesi ve Progressive Web App (PWA) desteği sayesinde mobil cihazlarda da kullanılabilir olması üzerine planlama yapıldı. Ayrıca proje geliştirme sürecinin aşamalara ayrılması ve temel fonksiyonların tamamlanmasının ardından yeni modüllerin kademeli olarak sisteme eklenmesi yönünde yol haritası oluşturuldu.
+Toplantının son bölümünde sistemin web tabanlı olarak geliştirilmesi ve Python teknolojileri kullanılarak ilerlenmesi üzerine planlama yapıldı. Projenin aşamalı olarak geliştirilmesi, öncelikle temel modüllerin tamamlanması ve ihtiyaçlar doğrultusunda yeni özelliklerin sonraki sürümlerde sisteme eklenmesi yönünde bir yol haritası oluşturuldu. Ayrıca yazılımın ölçeklenebilir ve sürdürülebilir bir yapıda tasarlanmasının, ilerleyen süreçte yapılacak geliştirmeleri kolaylaştıracağı değerlendirildi.
 
 Bu toplantı sayesinde bir yazılım projesinin geliştirme aşamasına geçmeden önce gerçekleştirilen ihtiyaç analizi, sistem tasarımı ve modül planlamasının proje başarısı açısından ne kadar önemli olduğu konusunda önemli bilgiler edinmiş oldum.
-
