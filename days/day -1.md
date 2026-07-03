@@ -1,4 +1,4 @@
-## 30 Haziran 2026
+## 🌞 30 Haziran 2026
 
 Bugün Django tabanlı kurumsal bir web sitesi projesinin temel altyapısını geliştirdim. Projeyi, temizlik ürünleri ve toptan gıda satışı yapan bir firma için hazırladım. İlk olarak proje klasörünü oluşturdum, Django kurulumunu yaptım ve modüler bir proje yapısı hazırladım. static, media ve templates klasörlerini yapılandırdım. Sayfaların ortak alanları için base.html, header ve footer yapısını oluşturdum.  
   
