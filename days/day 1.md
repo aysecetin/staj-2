@@ -1,4 +1,4 @@
-## 1 Temmuz 2026
+## 🌞 1 Temmuz 2026
 
 **01.07.2026 – Analiz ve Proje Planlama Toplantısı**
 
