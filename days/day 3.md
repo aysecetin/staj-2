@@ -8,5 +8,5 @@ Sepete ürün ekleme, ürün adedini değiştirme, ürün silme ve toplam fiyat 
   
 Firmanın logosunu siteye ekledim. Logo boyutu, sayfa kenar boşlukları ve ana sayfadaki başlık tasarımı üzerinde düzenlemeler yaptım. Responsive tasarımı masaüstü ve mobil ekranlarda kontrol ettim.
   
-Projeyi GitHub’daki aysecetin/pro-yildiz-guvenlik-site deposuna yükledim. GitHub ile Vercel bağlantısını kurarak siteyi patronuma gösterebilmek amacıyla internette demo olarak yayımladım. GitHub’a gönderilen yeni değişikliklerin Vercel tarafından otomatik yayımlanmasını sağladım.
+Projeyi GitHub’a yükledim. GitHub ile Vercel bağlantısını kurarak siteyi patronuma gösterebilmek amacıyla internette demo olarak yayımladım. GitHub’a gönderilen yeni değişikliklerin Vercel tarafından otomatik yayımlanmasını sağladım.
   
