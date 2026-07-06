@@ -1,12 +1,6 @@
 ## 🌞 6 Temmuz 2026 Pazartesi 
 
-siteyi render ile yayına aldım   
-
-hallettim ama zor oldu   
-
-ama başka sunucu kullancam bi de orda yayına alcam   
-
-bb 
+siteyi render ile yayına 
 **Django, PostgreSQL ve Canlı Yayın Altyapısı**
 
 Stajımın dördüncü gününde statik olarak hazırladığım e-ticaret sitesini Django altyapısına dönüştürdüm. Çalışan demoyu korumak amacıyla GitHub üzerinde django-gecis isimli ayrı bir geliştirme dalı oluşturdum.
