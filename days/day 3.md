@@ -1,6 +1,6 @@
 ## 🌞  3 Temmuz 2026 Cuma
 
-**Kamera ve Güvenlik Sistemleri Web sitesi** 
+**Kamera ve Güvenlik Sistemleri E-Ticaret Sitesinin Tasarlanması** 
 
 Stajımın üçüncü gününde “PRO YILDIZ Güvenlik Sistemleri” için modern ve mobil uyumlu bir e-ticaret sitesi tasarladım. Ana sayfa, ürün listeleme, kategori filtreleme, sepet, ödeme, sipariş takip ve demo yönetim paneli bölümlerini oluşturdum. Örnek ürün verileri ve placeholder görseller kullanarak ürün kartlarını hazırladım.
   
