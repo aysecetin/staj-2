@@ -1,4 +1,4 @@
-## 🌞 2 Temmuz 2026 Perşembe
+# 🌞 2 Temmuz 2026 Perşembe
 
 Bugün “OtoParça Bul” isimli MVP/prototip web uygulamasını geliştirmeye başladım. Projenin amacını, oto sanayide yedek parça satan küçük işletmeler ile parça arayan müşterileri dijital ortamda buluşturmak olarak belirledim. Bu sistemde müşterilerin aradıkları parçayı web sitesi üzerinden filtreleyerek bulabilmesini, parçacıların da kendi işletmelerini dijital vitrin olarak sergileyebilmesini hedefledim.  
   
