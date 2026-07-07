@@ -1,4 +1,4 @@
-## 🌞  3 Temmuz 2026 Cuma
+# 🌞  3 Temmuz 2026 Cuma
 
 **Kamera ve Güvenlik Sistemleri E-Ticaret Sitesinin Tasarlanması** 
 
