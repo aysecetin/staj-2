@@ -1,4 +1,4 @@
-## 🌞 6 Temmuz 2026 Pazartesi 
+# 🌞 6 Temmuz 2026 Pazartesi 
 
 
 **Django, PostgreSQL ve Canlı Yayın Altyapısı**
