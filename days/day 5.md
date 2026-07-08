@@ -7,15 +7,15 @@ Bugün hazırladığım Django tabanlı e-ticaret sitesini DeHost sunucusunda ya
 Site arayüzü yayınlandı ancak sipariş oluşturma bölümünde hata oluştu. Sorunun kaynağını belirlemek için API adreslerini kontrol ettim. Ürün API’sinin çalıştığını fakat sunucudaki veritabanında ürün bulunmadığı için boş sonuç döndürdüğünü tespit ettim. Arayüzde görünen örnek ürünlerin sunucu veritabanında kayıtlı olmaması nedeniyle sipariş oluşturulamıyordu.  
 
 Bu süreçte:
-Django API adreslerini test ettim.
-Sunucu yönlendirmelerini ve alan adı bağlantısını kontrol ettim.
-DNS kaynaklı erişim problemlerini inceledim.
-PostgreSQL, SQLite ve SQL Server arasındaki farkları araştırdım.
-Veritabanı tablolarının oluşturulması için migration işlemlerini değerlendirdim.
-Örnek ürünlerin canlı veritabanına eklenmesi gerektiğini belirledim.
-Sipariş isteğinin JSON yerine HTML hata sayfası döndürdüğünü tespit ettim.
-Canlı ortam değişkenleri, güvenilir alan adları ve güvenlik ayarlarını kontrol ettim.
-E-posta bildirimi ve yönetim panelinin sunucudaki çalışma durumunu inceledim.
+- Django API adreslerini test ettim.
+- Sunucu yönlendirmelerini ve alan adı bağlantısını kontrol ettim.
+- DNS kaynaklı erişim problemlerini inceledim.
+- PostgreSQL, SQLite ve SQL Server arasındaki farkları araştırdım.
+- Veritabanı tablolarının oluşturulması için migration işlemlerini değerlendirdim.
+- Örnek ürünlerin canlı veritabanına eklenmesi gerektiğini belirledim.
+- Sipariş isteğinin JSON yerine HTML hata sayfası döndürdüğünü tespit ettim.
+- Canlı ortam değişkenleri, güvenilir alan adları ve güvenlik ayarlarını kontrol ettim.
+- E-posta bildirimi ve yönetim panelinin sunucudaki çalışma durumunu inceledim.
 
 
 
