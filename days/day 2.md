@@ -32,5 +32,6 @@ Ana sayfadaki hero alanı için görsel kullanımını geliştirdim. Önce bir s
   
 Son olarak README dosyasını güncelledim. README içerisinde projenin amacı, kullanılan teknolojiler, modüler paket yapısı, sayfalar, kurulum adımları, GitHub’a güncelleme gönderme komutları ve demo notlarını detaylı şekilde yazdım.
   
-Bugünün sonunda React, Vite, TypeScript ve Tailwind CSS kullanarak responsive, gezilebilir, mock data ile çalışan modern bir MVP prototipi geliştirdim. Projeyi GitHub’a yüklenebilir ve Vercel üzerinden canlı link olarak paylaşılabilir hale getirdim.
-  
+Bugünün sonunda React, Vite, TypeScript ve Tailwind CSS kullanarak responsive, gezilebilir, mock data ile çalışan modern bir MVP prototipi geliştirdim. Projeyi GitHub’a yüklenebilir ve Vercel üzerinden canlı link olarak paylaşılabilir hale getirdim.  
+
+  https://otoparca-bul.vercel.app/
