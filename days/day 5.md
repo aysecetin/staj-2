@@ -1,3 +1,4 @@
+
 # 🌞 7 Temmuz 2026 Salı
 
 **Django Projesinin Sunucuya Aktarılması ve Hata Analizi**
@@ -20,7 +21,7 @@ Bu süreçte:
 Çalışma sonunda, yalnızca site dosyalarının sunucuya aktarılmasının yeterli olmadığını; veritabanı, alan adı, güvenlik, e-posta ve sunucu yönlendirme ayarlarının da canlı ortama uygun şekilde yapılandırılması gerektiğini öğrendim.
 
 
-
+<img width="2940" height="1912" alt="Kullanıcı eki" src="https://github.com/user-attachments/assets/197ac069-8162-4619-8d53-f8eb623dfc69" />
 
 
 
