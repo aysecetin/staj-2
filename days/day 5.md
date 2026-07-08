@@ -1,3 +1,3 @@
 # 🌞 7 Temmuz 2026 Salı
 
-**DeHost ile siteyi canlıya alma**
+**Django Projesinin Sunucuya Aktarılması ve Hata Analizi**
