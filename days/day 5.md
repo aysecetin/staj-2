@@ -17,6 +17,7 @@ Bu süreçte:
 - Canlı ortam değişkenleri, güvenilir alan adları ve güvenlik ayarlarını kontrol ettim.
 - E-posta bildirimi ve yönetim panelinin sunucudaki çalışma durumunu inceledim.
 
+Çalışma sonunda, yalnızca site dosyalarının sunucuya aktarılmasının yeterli olmadığını; veritabanı, alan adı, güvenlik, e-posta ve sunucu yönlendirme ayarlarının da canlı ortama uygun şekilde yapılandırılması gerektiğini öğrendim.
 
 
 
