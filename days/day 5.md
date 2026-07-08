@@ -21,11 +21,8 @@ Bu süreçte:
 Çalışma sonunda, yalnızca site dosyalarının sunucuya aktarılmasının yeterli olmadığını; veritabanı, alan adı, güvenlik, e-posta ve sunucu yönlendirme ayarlarının da canlı ortama uygun şekilde yapılandırılması gerektiğini öğrendim.
 
 
-<img width="2940" height="1912" alt="Kullanıcı eki" src="https://github.com/user-attachments/assets/197ac069-8162-4619-8d53-f8eb623dfc69" />
 
-
-
-
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/2a970ed5-da84-4662-b7a3-a8d9a8218ea5" />
 
 
 
