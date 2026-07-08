@@ -22,10 +22,7 @@ Bu süreçte:
 
 
 
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/2a970ed5-da84-4662-b7a3-a8d9a8218ea5" />
-
-
-
+<img width="1267" height="720" alt="Ekran Resmi 2026-07-08 09 06 15" src="https://github.com/user-attachments/assets/aac84cf0-b12f-4644-8ba4-36270b269f8b" />
 
 
 
