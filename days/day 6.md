@@ -1,1 +1,1 @@
-# 8 Temmuz 2026 Çarşamba
+# 🌞 8 Temmuz 2026 Çarşamba
