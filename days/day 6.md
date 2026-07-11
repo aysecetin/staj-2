@@ -8,4 +8,6 @@ Navbar bölümünde menü sıralamasını yeniden düzenledim ve "Hakkımızda" 
 
 Pro Yıldız Yazılım için hazırlanan yeni logo dosyasını projeye ekledim. Header ve footer alanlarında kullanılan eski logoları yeni logo ile değiştirdim. Logo boyutlarını ve hizalamalarını düzenleyerek masaüstü ve mobil cihazlarda daha uyumlu görünmesini sağladım.
 
-E-Yaz Yazılım ve Koddata yetkili bayilik logolarını siteye ekledim. Logoların arka plan problemlerini giderdim, boyutlarını optimize ettim ve sayfanın genel tasarımına uygun şekilde yerleştirdim. Gün sonunda yaptığım tüm düzenlemeleri farklı ekran boyutlarında test ederek gerekli küçük düzeltmeleri gerçekleştirdim.
+E-Yaz Yazılım ve Koddata yetkili bayilik logolarını siteye ekledim. Logoların arka plan problemlerini giderdim, boyutlarını optimize ettim ve sayfanın genel tasarımına uygun şekilde yerleştirdim. Gün sonunda yaptığım tüm düzenlemeleri farklı ekran boyutlarında test ederek gerekli küçük düzeltmeleri gerçekleştirdim.  
+
+Web sitesi geliştirme çalışmalarına ek olarak Pro Yıldız Yazılım'ın sosyal medya hesabı için içerik hazırladım. Firmanın bayiliğini yaptığı E-Yaz Yazılım ürününün tanıtımına yönelik bir reels videosu hazırladım. Video içerisinde kullanılacak görselleri, metinleri, geçiş efektlerini ve müzik seçimini düzenleyerek kurumsal kimliğe uygun bir içerik hazırladım. Hazırladığım reels videosunu firmanın sosyal medya hesabında paylaştım ve paylaşım sonrası gerekli kontrolleri gerçekleştirdim.
