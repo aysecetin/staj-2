@@ -1,7 +1,5 @@
 # 🌞 8 Temmuz 2026 Çarşamba
 
-## 1. Gün
-
 Bugün Pro Yıldız Yazılım web sitesinin arayüz geliştirme çalışmalarına başladım. İlk olarak mevcut web sitesini detaylı olarak inceleyerek kullanıcı deneyimi ve tasarım açısından geliştirilmesi gereken alanları belirledim. Ana sayfa, navbar, hero alanı, hizmetler, referanslar, videolar ve iletişim bölümlerini tek tek kontrol ederek yapılacak düzenlemeleri planladım.
 
 Ana sayfa üzerinde görsel hiyerarşiyi güçlendirmek amacıyla içerik bloklarının yerleşimini düzenledim. Bölümler arasındaki boşlukları, içerik genişliklerini ve hizalamaları yeniden ayarlayarak daha düzenli ve okunabilir bir görünüm oluşturdum. Hero alanındaki başlık, açıklama ve butonların konumlarını düzenleyerek farklı ekran boyutlarında daha dengeli görünmesini sağladım.
