@@ -1,1 +1,15 @@
 # 🌞 10 Temmuz 2026 Perşembe 
+
+Bugün web sitelerinde uygulanan SEO (Arama Motoru Optimizasyonu) süreçlerini öğrenmek amacıyla kapsamlı bir araştırma gerçekleştirdim. Çalışmaya öncelikle SEO'nun temel mantığını inceleyerek başladım. SEO'nun yalnızca anahtar kelime kullanımından ibaret olmadığını; kullanıcıların yaptığı aramaların amacı, arama motorlarının web sitelerini nasıl değerlendirdiği ve doğru içerik yapısının nasıl oluşturulduğu gibi birçok farklı unsurdan oluştuğunu öğrendim.
+
+Araştırma sürecinde Google'ın web sitelerini hangi aşamalardan geçirerek sıraladığını inceledim. Tarama (Crawling), dizine ekleme (Indexing) ve sıralama (Ranking) süreçlerinin nasıl çalıştığını, Googlebot'un sayfaları nasıl taradığını, robots.txt ve XML site haritasının görevlerini, canonical etiketlerinin kullanım amacını ve yönlendirme (redirect) mantığını araştırdım. Ayrıca web sitelerindeki iç bağlantıların hem kullanıcı deneyimi hem de arama motorları açısından neden önemli olduğunu öğrenmeye çalıştım.
+
+Daha sonra anahtar kelime araştırmasının nasıl yapıldığını inceledim. Kullanıcıların hangi kelimeleri aradığını belirlemek için kullanılan yöntemleri araştırdım ve yalnızca arama hacminin değil, arama niyetinin de büyük önem taşıdığını öğrendim. Bilgi edinme, ürün karşılaştırma, satın alma veya belirli bir markaya ulaşma amacıyla yapılan aramaların farklı içerik türleri gerektirdiğini gözlemledim.
+
+SEO araştırmasının önemli aşamalarından biri olan SERP (Search Engine Results Page) analizinin nasıl yapıldığını öğrendim. Google'da yapılan aramalarda ilk sayfada hangi tür içeriklerin gösterildiğini, başlıkların nasıl oluşturulduğunu, ürün sayfaları ile blog içerikleri arasındaki farkları ve öne çıkan sonuçların hangi özelliklere sahip olduğunu inceleyerek arama sonuçlarının nasıl değerlendirildiğini anlamaya çalıştım.
+
+Sayfa içi SEO konusunda ise başlık etiketleri (Title), meta açıklamaları, H1 ve diğer başlık yapıları, URL düzeni, görseller için kullanılan alternatif metinler (Alt Text) ve içerik düzeni gibi temel unsurlar hakkında araştırma yaptım. Bunların arama motorlarının sayfaları anlamasına ve kullanıcı deneyimine nasıl katkı sağladığını öğrendim.
+
+Teknik SEO başlığı altında mobil uyumluluk, sayfa açılış hızı, kırık bağlantılar, yinelenen içerikler, indekslenebilirlik ve yapılandırılmış veri gibi kavramların ne ifade ettiğini araştırdım. Ayrıca SEO çalışmalarının yalnızca içerik üretmekten ibaret olmadığını, teknik altyapının da arama motorları açısından önemli bir değerlendirme kriteri olduğunu öğrendim.
+
+Son olarak SEO çalışmalarının nasıl ölçüldüğünü araştırdım. Google Search Console ve Google Analytics araçlarının temel kullanım amaçlarını inceleyerek tıklama sayısı, gösterim, tıklanma oranı (CTR), ortalama konum ve dönüşüm gibi metriklerin SEO performansını değerlendirmede kullanıldığını öğrendim. Yaptığım araştırmalar sayesinde SEO'nun içerik, teknik altyapı, kullanıcı deneyimi ve analiz süreçlerinin birlikte değerlendirilmesi gereken kapsamlı bir çalışma alanı olduğunu daha iyi kavradım.
