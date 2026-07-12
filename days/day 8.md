@@ -1,4 +1,4 @@
-# 🌞 10 Temmuz 2026 Perşembe 
+# 🌞 10 Temmuz 2026 Cuma 
 
 Bugün web sitelerinde uygulanan SEO (Arama Motoru Optimizasyonu) süreçlerini öğrenmek amacıyla kapsamlı bir araştırma gerçekleştirdim. Çalışmaya öncelikle SEO'nun temel mantığını inceleyerek başladım. SEO'nun yalnızca anahtar kelime kullanımından ibaret olmadığını; kullanıcıların yaptığı aramaların amacı, arama motorlarının web sitelerini nasıl değerlendirdiği ve doğru içerik yapısının nasıl oluşturulduğu gibi birçok farklı unsurdan oluştuğunu öğrendim.
 
