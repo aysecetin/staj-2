@@ -35,3 +35,11 @@ Son olarak README dosyasını güncelledim. README içerisinde projenin amacı, 
 Bugünün sonunda React, Vite, TypeScript ve Tailwind CSS kullanarak responsive, gezilebilir, mock data ile çalışan modern bir MVP prototipi geliştirdim. Projeyi GitHub’a yüklenebilir ve Vercel üzerinden canlı link olarak paylaşılabilir hale getirdim.  
 
   https://otoparca-bul.vercel.app/
+
+<img width="1459" height="880" alt="Ekran Resmi 2026-07-13 10 59 32" src="https://github.com/user-attachments/assets/45d98e16-efeb-47f1-8858-223f4b3a8f92" />
+
+<img width="1457" height="843" alt="Ekran Resmi 2026-07-13 11 00 21" src="https://github.com/user-attachments/assets/4a207cc2-abfc-40b3-b69d-842931a3add8" />
+
+<img width="1457" height="838" alt="Ekran Resmi 2026-07-13 11 00 42" src="https://github.com/user-attachments/assets/8ebf2ebd-5b82-45e1-9ecb-3a22c606e6c7" />
+
+
