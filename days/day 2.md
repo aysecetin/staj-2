@@ -42,4 +42,10 @@ Bugünün sonunda React, Vite, TypeScript ve Tailwind CSS kullanarak responsive,
 
 <img width="1457" height="838" alt="Ekran Resmi 2026-07-13 11 00 42" src="https://github.com/user-attachments/assets/8ebf2ebd-5b82-45e1-9ecb-3a22c606e6c7" />
 
+<img width="1455" height="836" alt="Ekran Resmi 2026-07-13 11 08 54" src="https://github.com/user-attachments/assets/31627552-84e2-4436-bbc0-4ce06bf22adc" />
+
+<img width="1454" height="834" alt="Ekran Resmi 2026-07-13 11 09 17" src="https://github.com/user-attachments/assets/1ecc472c-6600-416e-b2db-03b8acd01897" />
+
+
+
 
