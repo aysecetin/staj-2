@@ -1,3 +1,4 @@
+
 # 🌞 14 Temmuz 2026 Salı 
 
 
@@ -22,3 +23,7 @@ Bu çalışmaların sonunda OtoParça Bul projesinde kullanıcı rolüne göre d
 <img width="1460" height="839" alt="Ekran Resmi 2026-07-14 15 10 02" src="https://github.com/user-attachments/assets/30023baf-0ea2-42f4-a218-447e9e626319" />
 
 <img width="1469" height="889" alt="Ekran Resmi 2026-07-14 15 07 48" src="https://github.com/user-attachments/assets/1313e0b5-6b37-44d0-adef-366b5a80bc7e" />
+
+Ayrıca aynı isimde bir site bulunduğu için ismini sanayicep yaptım.
+
+<img width="1457" height="837" alt="Ekran Resmi 2026-07-14 16 26 50" src="https://github.com/user-attachments/assets/5909c01f-39f6-4726-81ae-c9f18ba69241" />
