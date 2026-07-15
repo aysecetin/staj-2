@@ -1,6 +1,6 @@
 # 🌞 16 Temmuz 2026 Perşembe
 
-**Tarih: 15.07.2026**
+
 
 Bugün **SürüTakip** platformu üzerinde çalıştım. Bu proje, büyükbaş ve küçükbaş hayvan yetiştiricilerinin sürülerini dijital ortamda yönetebilmesini sağlayan kapsamlı bir yönetim sistemidir.
 
