@@ -11,4 +11,4 @@ Veteriner talepleri için talep oluşturma, talep durumunu takip etme ve uygun v
 
 Arayüz tarafında navbar geçişlerini, hover animasyonlarını, mobil uyumluluğu ve panel menülerini iyileştirdim. Bildirim simgesini işlevsel hale getirerek bildirimleri görüntüleme ve okundu olarak işaretleme özelliklerini ekledim. Kullanıcı profil simgesine açılır hesap menüsü ekleyerek profil sayfasına geçiş, ana siteye dönüş ve güvenli çıkış işlemlerini sağladım.
 
-Çalışmalarımın sonunda projeyi test, lint, TypeScript ve production build kontrollerinden geçirdim. Gizli ortam değişkenlerinin GitHub'a yüklenmesini önlemek için `.gitignore` dosyasını düzenledim. Son olarak projeyi Git ile sürüm kontrolüne alarak `aysecetin` hesabındaki özel `surutakip-platformu` GitHub reposuna gönderdim.
+Çalışmalarımın sonunda projeyi test, lint, TypeScript ve production build kontrollerinden geçirdim. Gizli ortam değişkenlerinin GitHub'a yüklenmesini önlemek için `.gitignore` dosyasını düzenledim. 
