@@ -1,6 +1,6 @@
 # 🌞 20 Temmuz 2026 Pazartesi
 
-güvenlik sitesiyle deneyerek siteyi yayına almayı öğrendim 
+
 
 Bugün PRO YILDIZ Güvenlik Sistemleri projesinin Django sürümünün canlı sunucuya yayınlanması üzerinde çalıştım. Öncelikle Ubuntu tabanlı VPS sunucusuna CloudPanel kurulumu yapılarak Python uygulamaları için gerekli hosting ortamı hazırlandı. CloudPanel üzerinden yeni bir Python sitesi oluşturuldu ve uygulama için Python 3.12 sürümü ile gerekli port ayarları yapılandırıldı.
 
