@@ -1,13 +1,22 @@
 
 # 21 Temmuz 2026 Salı
 
-Bugün geliştirdiğim Django tabanlı web projesini canlı ortama taşımak için gerekli sunucu ve alan adı altyapısını hazırlama çalışmaları yaptım. İlk olarak proje için altinertoptan.com alan adını satın aldım ve alan adının yönetim ayarlarını inceledim. Alan adı kayıt işlemlerini tamamlayarak daha sonra kullanılacak DNS yapılandırmaları için gerekli hazırlıkları yaptım.
+Bugün geliştirdiğim Django tabanlı web projesini canlı ortama taşımak amacıyla sunucu ve alan adı altyapısı üzerinde çalışmalar yaptım.
 
-Canlı yayın ortamı oluşturmak amacıyla DeHost üzerinden yeni bir VPS (Virtual Private Server) kiraladım. Sunucu oluşturulduktan sonra SSH bağlantısı kurarak Ubuntu sunucusuna erişim sağladım. Sunucuda sistem paketlerini güncelledim ve CloudPanel kurulumuna başlamadan önce gerekli bağımlılıkları kontrol ettim.
+Çalışmalar kapsamında;
 
-CloudPanel kurulumu sırasında veritabanı servisleri ile ilgili hatalar oluştuğunu tespit ettim. Hata kayıtlarını inceleyerek problemin nedenini araştırdım ve yarım kalan paket kurulumlarını kontrol ettim. Sorunun mevcut sistem yapılandırmasından kaynaklanabileceğini değerlendirdiğim için sunucuyu tamamen sıfırlayarak Ubuntu 22.04 işletim sistemini yeniden kurdum.
+Proje için altinertoptan.com alan adını satın aldım.
+Alan adının kayıt işlemlerini tamamlayarak DNS yönetim ekranını inceledim.
+Canlı yayın sürecinde kullanılacak alan adı yönlendirmeleri ve DNS yapılandırmaları hakkında gerekli hazırlıkları yaptım.
+DeHost üzerinden projeye ait yeni bir VPS (Virtual Private Server) oluşturdum.
+Sunucu bilgilerini kontrol ederek SSH bağlantısı üzerinden Ubuntu sunucusuna erişim sağladım.
+Sunucu üzerinde sistem paketlerini güncelleyerek CloudPanel kurulumu için gerekli ön hazırlıkları gerçekleştirdim.
+CloudPanel kurulumu sırasında oluşan paket ve veritabanı hatalarını inceleyerek hata kayıtlarını analiz ettim.
+Yarım kalan paket kurulumlarını ve sistem servislerini kontrol ederek problemin kaynağını araştırdım.
+Daha sağlıklı bir kurulum gerçekleştirebilmek amacıyla sunucuyu sıfırlayarak Ubuntu 22.04 işletim sistemini yeniden kurdum.
+Yeni kurulum sonrasında SSH bağlantısını tekrar yapılandırarak sunucu erişim testlerini gerçekleştirdim.
+Sunucuya erişim problemi yaşanması üzerine farklı internet bağlantıları (ev interneti ve mobil internet) üzerinden SSH bağlantı testleri yaptım.
+Ping ve ağ erişim testleri gerçekleştirerek bağlantı probleminin istemci bilgisayardan mı yoksa sunucu taraflı mı olduğunu analiz ettim.
+SSH anahtarlarını yenileyerek bağlantı doğrulama işlemlerini tekrar gerçekleştirdim.
 
-İşletim sistemi yeniden kurulduktan sonra SSH erişimini tekrar test ettim. Bağlantı probleminin kendi bilgisayarımdan mı yoksa sunucu taraflı mı olduğunu anlamak amacıyla farklı ağlar üzerinden bağlantı denemeleri gerçekleştirdim. Ev interneti ve mobil internet bağlantıları üzerinden SSH ve ağ erişim testleri yaptım. Ayrıca ping ve port erişim kontrolleri gerçekleştirerek bağlantı problemini analiz ettim.
-
-# değiştir burayı
-Yapılan testler sonucunda problemin istemci bilgisayardan değil, sunucu tarafındaki ağ veya servis yapılandırmasından kaynaklandığını belirledim. Elde ettiğim test sonuçlarını ve hata çıktılarını kayıt altına alarak hosting sağlayıcısının teknik destek ekibine iletilmek üzere gerekli teknik bilgileri hazırladım. Böylece canlı yayın öncesinde sunucu altyapısındaki erişim probleminin tespit edilmesi ve giderilmesi için gerekli ön hazırlıkları tamamladım.
+Yapılan testler sonucunda problemin sunucu tarafındaki ağ yapılandırması ile ilgili olabileceğini değerlendirdim. Durumu ekip arkadaşım ile birlikte inceleyerek gerekli kontrolleri gerçekleştirdik. Yapılan incelemeler sonrasında sunucu tarafındaki erişim problemi giderildi ve bağlantı yeniden sağlandı. Böylece canlı yayın sürecine devam edebilmek için gerekli sunucu altyapısını hazır hale getirdim.
