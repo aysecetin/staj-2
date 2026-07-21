@@ -1,4 +1,4 @@
-
+# 22 Temmuz 2026 Çarşamba
 Bugün geliştirdiğim Django tabanlı web projesini canlı ortama taşımak amacıyla sunucu ve alan adı altyapısı üzerinde çalışmalar yaptım.
 
 Çalışmalar kapsamında;
