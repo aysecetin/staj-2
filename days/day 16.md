@@ -23,5 +23,6 @@ Yaptığım çalışmalar:
 - Canlı ortam üzerinde iletişim bilgileri, sosyal medya bağlantıları, görseller ve genel site işlevlerini test ederek son kontrolleri tamamladım.
 
 www.altınertoptan.com
+
 <img width="1457" height="831" alt="Ekran Resmi 2026-07-22 23 41 27" src="https://github.com/user-attachments/assets/cad86b37-4fae-4fcc-a066-53e20773e443" />
 
