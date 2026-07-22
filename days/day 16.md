@@ -1,4 +1,4 @@
-# 23 Temmuz 2026 Perşembe
+# 🌞 23 Temmuz 2026 Perşembe
 Bugün Altıner Toptan kurumsal web sitesinin canlı yayın ortamına alınması ve son kontrolleri üzerinde çalıştım. Alan adı, sunucu ve uygulama tarafındaki eksiklikleri gidererek projenin yayın sürecini tamamladım.
 
 Yaptığım çalışmalar:
