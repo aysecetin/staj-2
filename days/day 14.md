@@ -1,5 +1,5 @@
 
-# 21 Temmuz 2026 Salı
+# 🌞 21 Temmuz 2026 Salı
 - Django ile geliştirilen kurumsal tedarik web sitesi üzerinde arayüz düzenlemeleri yaptım.
 - İletişim sayfasında bulunan Mesaj Gönder formunu tamamen kaldırdım.
 - İletişim bilgileri bölümünü sayfada daha geniş ve düzenli görünecek şekilde yeniden tasarladım.
