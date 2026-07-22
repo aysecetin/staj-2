@@ -1,2 +1,2 @@
-# 24 Temmuz 2026 Cuma
+# 🌞 24 Temmuz 2026 Cuma
 
