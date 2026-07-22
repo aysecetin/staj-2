@@ -10,7 +10,7 @@ Yaptığım çalışmalar:
 - Sunucudaki Python sürümünü güncelleyerek Django 6 sürümüyle uyumlu hale getirdim.
 - Ortam değişkenlerini (.env) oluşturarak güvenlik ayarlarını yapılandırdım. Debug modunu kapattım, SSL yönlendirmelerini ve güvenli çerez ayarlarını aktif hale getirdim.
 - Django veritabanı migration işlemlerini gerçekleştirerek gerekli tabloları oluşturdum.
-- <collectstatic> komutunu çalıştırarak statik dosyaları sunucuya aktardım.
+- ```collectstatic``` komutunu çalıştırarak statik dosyaları sunucuya aktardım.
 - Gunicorn yapılandırmasını hazırlayarak uygulamanın servis olarak çalışmasını sağladım.
 - Nginx yapılandırmasını düzenleyerek Gunicorn ile ters vekil (Reverse Proxy) bağlantısını kurdum.
 - Statik dosyaların doğru şekilde sunulabilmesi için /static ve /media yönlendirmelerini yapılandırdım.
