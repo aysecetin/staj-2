@@ -6,7 +6,7 @@
 
 Bugün yaptığım çalışmalarda, Django ile geliştirdiğim kurumsal tedarik sitesinin galeri ve ürün yönetimini daha kullanışlı hâle getirdim. Yönetim panelinden eklenen ürünlerin kategorilere ayrılmasını, galeri görsellerinin ürünlerde tekrar kullanılmasını ve ürünlerin site üzerinde daha düzenli sergilenmesini sağladım. Ayrıca ürün fotoğraflarının arka planlarını kaldırarak daha temiz ve profesyonel bir görünüm elde ettim.
 
-**Galeri Görsellerinin Düzenlenmesi--
+**Galeri Görsellerinin Düzenlenmesi**
 - Galeri sayfasındaki ürün fotoğraflarının kart çerçevelerine tam olarak oturmadığını tespit ettim.
 - Görsellerde kullanılan object-fit: cover özelliğinin fotoğrafları çerçeveyi doldurmak için üstten, alttan veya yanlardan kırptığını belirledim.
 - Ürünlerin tamamının görünmesi için galeri görsellerinde object-fit: contain özelliğini kullandım.
