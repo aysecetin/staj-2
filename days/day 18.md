@@ -1,61 +1,39 @@
 
 # 🌞 27 Temmuz 2026 Pazartesi
 
-Django Ürün, Galeri ve Kategori Yönetiminin Geliştirilmesi
-Yapılan Çalışmanın Amacı
-Dün akşam yaptığım çalışmalarda, Django ile geliştirdiğim kurumsal tedarik sitesinin galeri ve ürün yönetimini daha kullanışlı hâle getirdim. Yönetim panelinden eklenen ürünlerin kategorilere ayrılmasını, galeri görsellerinin ürünlerde tekrar kullanılmasını ve ürünlerin site üzerinde daha düzenli sergilenmesini sağladım. Ayrıca ürün fotoğraflarının arka planlarını kaldırarak daha temiz ve profesyonel bir görünüm elde ettim.
-Galeri Görsellerinin Düzenlenmesi
-Galeri sayfasındaki ürün fotoğraflarının kart çerçevelerine tam olarak oturmadığını tespit ettim.
+### Django Ürün, Galeri ve Kategori Yönetiminin Geliştirilmesi
+**Yapılan Çalışmanın Amacı**  
 
-Görsellerde kullanılan object-fit: cover özelliğinin fotoğrafları çerçeveyi doldurmak için üstten, alttan veya yanlardan kırptığını belirledim.
+Bugün yaptığım çalışmalarda, Django ile geliştirdiğim kurumsal tedarik sitesinin galeri ve ürün yönetimini daha kullanışlı hâle getirdim. Yönetim panelinden eklenen ürünlerin kategorilere ayrılmasını, galeri görsellerinin ürünlerde tekrar kullanılmasını ve ürünlerin site üzerinde daha düzenli sergilenmesini sağladım. Ayrıca ürün fotoğraflarının arka planlarını kaldırarak daha temiz ve profesyonel bir görünüm elde ettim.
 
-Ürünlerin tamamının görünmesi için galeri görsellerinde object-fit: contain özelliğini kullandım.
-
-Galeri kartlarının 4:3 görüntü oranını korudum ve farklı boyutlardaki fotoğrafların eşit büyüklükteki kartlarda gösterilmesini sağladım.
-
-Görsel ile kart arasında oluşabilecek boş alanlara açık krem renkli bir arka plan ekledim.
-
-Görselleri kartların yatay ve dikey merkezine hizaladım.
-
-Galeri fotoğraflarına loading="lazy" özelliği ekledim. Böylece kullanıcı sayfayı açtığında ekranda görünmeyen görsellerin daha sonra yüklenmesini ve sayfanın daha hızlı açılmasını sağladım.
-
-Tarayıcının eski CSS dosyasını önbellekten göstermemesi için statik dosya sürüm bilgisini güncelledim.
-
-Ürün Fotoğraflarının Arka Planlarının Kaldırılması
-Ürün fotoğraflarındaki gereksiz ve görüntü bütünlüğünü bozan arka planları kaldırdım.
-
-Ürünlerin kavanoz, paket veya ambalaj bölümlerini koruyarak yalnızca arka plan alanlarını temizledim.
-
-Fotoğrafların kenarlarında oluşabilecek bozuklukları ve istenmeyen renk kalıntılarını kontrol ettim.
-
-Arka planı kaldırılan ürünleri kart içerisinde daha net ve dikkat çekici görünecek şekilde düzenledim.
-
-Farklı ürün fotoğraflarının benzer görsel standartlara sahip olmasını sağladım.
-
-Arka planı temizlenen görseller sayesinde ürünlerin galeri ve ürün kartlarında daha profesyonel görünmesini sağladım.
-
-Görsellerin küçük ekranlarda ve farklı kart boyutlarında okunabilirliğini kontrol ettim.
-
-Galeri ve Ürünler Arasında Bağlantı Kurulması
-Mevcut sistemde galeri görselleri ile ürün kayıtlarının birbirinden bağımsız olduğunu tespit ettim.
-
-Aynı fotoğrafın hem galeriye hem de ürünler bölümüne yeniden yüklenmesini önlemek için ürün modeli ile galeri görseli arasında ilişki kurdum.
-
-ProductService modeline gallery_image isimli yeni bir alan ekledim.
-
-Bu alanı Django ForeignKey yapısıyla GalleryImage modeline bağladım.
-
-Ürün eklerken yönetim panelinden daha önce galeriye yüklenen bir görselin seçilebilmesini sağladım.
-
-Bir galeri görseli silindiğinde bağlı ürünün tamamen silinmemesi için on_delete=models.SET_NULL seçeneğini kullandım.
-
-Galeri görseli seçilmesini zorunlu tutmayarak mevcut ürün kayıtlarının bozulmasını engelledim.
-
-Eski ürünlerde doğrudan yüklenen görsellerin çalışmaya devam etmesini sağladım.
-
-Ürün için galeri görseli seçilmişse öncelikle bu görselin kullanılmasını, seçilmemişse eski ürün görselinin gösterilmesini sağlayan display_image özelliğini hazırladım.
-
-Kategori İçerisinden Ürün Ekleme
+**Galeri Görsellerinin Düzenlenmesi--
+- Galeri sayfasındaki ürün fotoğraflarının kart çerçevelerine tam olarak oturmadığını tespit ettim.
+- Görsellerde kullanılan object-fit: cover özelliğinin fotoğrafları çerçeveyi doldurmak için üstten, alttan veya yanlardan kırptığını belirledim.
+- Ürünlerin tamamının görünmesi için galeri görsellerinde object-fit: contain özelliğini kullandım.
+- Galeri kartlarının 4:3 görüntü oranını korudum ve farklı boyutlardaki fotoğrafların eşit büyüklükteki kartlarda gösterilmesini sağladım.
+- Görsel ile kart arasında oluşabilecek boş alanlara açık krem renkli bir arka plan ekledim.
+- Görselleri kartların yatay ve dikey merkezine hizaladım.
+- Galeri fotoğraflarına loading="lazy" özelliği ekledim. Böylece kullanıcı sayfayı açtığında ekranda görünmeyen görsellerin daha sonra yüklenmesini ve sayfanın daha hızlı açılmasını sağladım.
+- Tarayıcının eski CSS dosyasını önbellekten göstermemesi için statik dosya sürüm bilgisini güncelledim.
+- Ürün Fotoğraflarının Arka Planlarının Kaldırılması
+- Ürün fotoğraflarındaki gereksiz ve görüntü bütünlüğünü bozan arka planları kaldırdım.
+- Ürünlerin kavanoz, paket veya ambalaj bölümlerini koruyarak yalnızca arka plan alanlarını temizledim.
+- Fotoğrafların kenarlarında oluşabilecek bozuklukları ve istenmeyen renk kalıntılarını kontrol ettim.
+- Arka planı kaldırılan ürünleri kart içerisinde daha net ve dikkat çekici görünecek şekilde düzenledim.
+- Farklı ürün fotoğraflarının benzer görsel standartlara sahip olmasını sağladım.
+- Arka planı temizlenen görseller sayesinde ürünlerin galeri ve ürün kartlarında daha profesyonel görünmesini sağladım.
+- Görsellerin küçük ekranlarda ve farklı kart boyutlarında okunabilirliğini kontrol ettim.
+**Galeri ve Ürünler Arasında Bağlantı Kurulması**
+- Mevcut sistemde galeri görselleri ile ürün kayıtlarının birbirinden bağımsız olduğunu tespit ettim.
+- Aynı fotoğrafın hem galeriye hem de ürünler bölümüne yeniden yüklenmesini önlemek için ürün modeli ile galeri görseli arasında ilişki kurdum.
+- ProductService modeline gallery_image isimli yeni bir alan ekledim.
+- Bu alanı Django ForeignKey yapısıyla GalleryImage modeline bağladım.
+- Ürün eklerken yönetim panelinden daha önce galeriye yüklenen bir görselin seçilebilmesini sağladım.
+- Bir galeri görseli silindiğinde bağlı ürünün tamamen silinmemesi için on_delete=models.SET_NULL seçeneğini kullandım.
+- Galeri görseli seçilmesini zorunlu tutmayarak mevcut ürün kayıtlarının bozulmasını engelledim.
+- Eski ürünlerde doğrudan yüklenen görsellerin çalışmaya devam etmesini sağladım.
+- Ürün için galeri görseli seçilmişse öncelikle bu görselin kullanılmasını, seçilmemişse eski ürün görselinin gösterilmesini sağlayan display_image özelliğini hazırladım.
+**Kategori İçerisinden Ürün Ekleme**
 Django yönetim panelindeki kategori düzenleme ekranını geliştirdim.
 
 Her kategori sayfasına o kategoriye bağlı ürünlerin listelendiği bir inline alan ekledim.
