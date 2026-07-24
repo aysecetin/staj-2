@@ -33,6 +33,7 @@ Bugün yaptığım çalışmalarda, Django ile geliştirdiğim kurumsal tedarik 
 - Galeri görseli seçilmesini zorunlu tutmayarak mevcut ürün kayıtlarının bozulmasını engelledim.
 - Eski ürünlerde doğrudan yüklenen görsellerin çalışmaya devam etmesini sağladım.
 - Ürün için galeri görseli seçilmişse öncelikle bu görselin kullanılmasını, seçilmemişse eski ürün görselinin gösterilmesini sağlayan display_image özelliğini hazırladım.
+  
 **Kategori İçerisinden Ürün Ekleme**
 Django yönetim panelindeki kategori düzenleme ekranını geliştirdim.
 
