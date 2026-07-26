@@ -32,7 +32,6 @@ Bugün yaptığım çalışmalarda, Django ile geliştirdiğim kurumsal tedarik 
 - Galeri ve ürün kartlarında daha profesyonel bir görünüm elde ettim.
 - Küçük ekranlarda ve farklı kart boyutlarında görsellerin okunabilirliğini test ettim.
 
----
 
 ## Galeri ve Ürünler Arasında Bağlantı Kurulması
 
