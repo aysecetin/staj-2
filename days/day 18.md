@@ -6,7 +6,7 @@
 
 Bugün yaptığım çalışmalarda, Django ile geliştirdiğim kurumsal tedarik sitesinin ürün, galeri ve kategori yönetimini daha işlevsel ve sürdürülebilir hâle getirdim. Galeri görsellerinin ürünlerde tekrar kullanılabilmesini sağlayarak gereksiz dosya tekrarını önledim, ürünlerin kategori bazlı daha düzenli yönetilmesini sağladım ve görselleri hem kullanıcı deneyimi hem de performans açısından optimize ettim. Ayrıca canlı sunucuya güncellemeleri güvenli şekilde aktararak sistemin sorunsuz çalıştığını doğruladım.
 
-
+---
 
 ## Galeri Görsellerinin Düzenlenmesi
 
