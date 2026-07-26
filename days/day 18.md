@@ -95,7 +95,7 @@ Bugün yaptığım çalışmalarda, Django ile geliştirdiğim kurumsal tedarik 
 - Gunicorn servisini kesintisiz şekilde yeniden yükledim.
 - HTTPS yönlendirmesini ve canlı sistemin sorunsuz çalıştığını kontrol ettim.
 
----
+----
 
 ## Kazanımlar
 
