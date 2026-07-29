@@ -3,13 +3,13 @@
 
 # Altıner Toptan Web Sitesine İkinci Telefon Numarası Desteğinin Eklenmesi
 
-## Yapılan Çalışmanın Amacı
+### Yapılan Çalışmanın Amacı
 
 Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesinin iletişim altyapısını geliştirerek yönetim panelinden kontrol edilebilen ikinci telefon numarası desteği ekledim. Böylece firma, ihtiyaç duyduğunda birden fazla telefon numarasını ziyaretçilere sunabilecek ve tüm iletişim bilgilerini tek bir panel üzerinden yönetebilecek hale geldi.
 
 ---
 
-## Mevcut Yapının İncelenmesi
+### Mevcut Yapının İncelenmesi
 
 - Projede iletişim bilgilerinin tutulduğu yapıyı inceledim.
 - Telefon bilgilerinin **SiteSetting** modeli üzerinden yönetildiğini tespit ettim.
@@ -17,7 +17,7 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 
 ---
 
-## Veritabanı ve Model Güncellemesi
+### Veritabanı ve Model Güncellemesi
 
 - **secondary_phone** adında yeni bir alan ekledim.
 - İkinci telefon numarası alanını isteğe bağlı (opsiyonel) olarak tanımladım.
@@ -26,7 +26,7 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 
 ---
 
-## Yönetim Panelinin Güncellenmesi
+### Yönetim Panelinin Güncellenmesi
 
 - Django yönetim panelindeki **Site Ayarları** bölümünü güncelledim.
 - İkinci telefon numarasının yönetim panelinden eklenebilmesini ve düzenlenebilmesini sağladım.
@@ -34,7 +34,7 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 
 ---
 
-## İletişim Sayfasının Düzenlenmesi
+### İletişim Sayfasının Düzenlenmesi
 
 - İletişim sayfasındaki telefon kartlarını yeniden düzenledim.
 - İkinci telefon numarası girildiğinde mevcut telefon numarasının yanında veya altında ayrı bir iletişim seçeneği olarak gösterilmesini sağladım.
