@@ -65,7 +65,7 @@ Bugün, GPS destekli sürü yönetimi, hayvan kayıtları, hayvan pazarları, ve
 
 ---
 
-## Sürüm Yönetimi ve Yayınlama
+### Sürüm Yönetimi ve Yayınlama
 
 - Yaptığım değişiklikleri Git ile kaydettim.
 - Değişiklikleri **feature/mobile-foundation** dalına göndererek GitHub deposunu güncelledim.
@@ -74,7 +74,7 @@ Bugün, GPS destekli sürü yönetimi, hayvan kayıtları, hayvan pazarları, ve
 
 ---
 
-## APK Derleme Süreci
+### APK Derleme Süreci
 
 - Expo EAS Build kullanarak Android APK derlemesini başlattım.
 - Ücretsiz kullanım sırası nedeniyle oluşan beklemenin sistem hatası olmadığını doğruladım.
@@ -83,6 +83,6 @@ Bugün, GPS destekli sürü yönetimi, hayvan kayıtları, hayvan pazarları, ve
 
 ---
 
-## Elde Edilen Sonuç
+### Elde Edilen Sonuç
 
 Bu çalışma sonucunda **SürüTakip** mobil uygulaması, web uygulamasıyla tamamen entegre çalışan WebView tabanlı bir yapıya dönüştürüldü. Böylece web tarafında yapılan içerik, tasarım ve sistem güncellemelerinin yeni APK oluşturmaya gerek kalmadan mobil uygulamada da anında görüntülenmesi sağlandı. Yalnızca uygulamanın cihaza özgü yerel özelliklerinde değişiklik yapılması gerektiğinde yeniden APK derlenmesi gerekecek şekilde sürdürülebilir ve bakım maliyeti düşük bir mobil uygulama altyapısı oluşturuldu.
