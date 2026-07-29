@@ -45,14 +45,14 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 - İkinci telefon numarasının sayfanın alt kısmında da görüntülenmesini sağladım.
 - Telefon numaralarının tıklanabilir bağlantılar olarak çalışmasını sağladım.
 
----
+
 
 ### Telefon Bağlantılarının Düzenlenmesi
 
 - Telefon numaralarının bağlantılarda sorunsuz çalışabilmesi için numaraların içerisindeki boşlukları ve özel karakterleri temizleyen bir yapı hazırladım.
 - Böylece ziyaretçiler telefon numarasına tıkladığında cihazın telefon uygulamasının doğrudan açılmasını sağladım.
 
----
+
 
 ### Test ve Doğrulama
 
@@ -60,7 +60,7 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 - İkinci telefon numarası bulunduğunda iletişim sayfasında doğru şekilde görüntülendiğini doğruladım.
 - Footer bölümünde de ikinci telefon numarasının başarılı şekilde gösterildiğini kontrol ettim.
 
----
+
 
 ### Yayınlama Süreci
 
@@ -72,7 +72,7 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 - **python manage.py check** komutunu kullanarak projede herhangi bir yapılandırma veya sistem hatası bulunmadığını doğruladım.
 - Son olarak Gunicorn uygulama sunucusunu yeniden yükleyerek değişiklikleri hizmet kesintisi oluşturmadan canlı ortama aktardım.
 
----
+
 
 ### Elde Edilen Sonuç
 
