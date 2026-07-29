@@ -9,7 +9,7 @@ Bugün, GPS destekli sürü yönetimi, hayvan kayıtları, hayvan pazarları, ve
 
 ---
 
-## WebView Tabanlı Mobil Yapının Oluşturulması
+### WebView Tabanlı Mobil Yapının Oluşturulması
 
 - React Native projesine **react-native-webview** paketini ekledim.
 - Expo uygulamasının ana ekranını WebView tabanlı olacak şekilde yeniden düzenledim.
@@ -19,7 +19,7 @@ Bugün, GPS destekli sürü yönetimi, hayvan kayıtları, hayvan pazarları, ve
 
 ---
 
-## Oturum Yönetimi
+### Oturum Yönetimi
 
 - Kullanıcının web uygulamasında yaptığı giriş işleminin mobil uygulama içerisinde de korunmasını sağladım.
 - Daha önce geliştirilen ayrı mobil giriş ekranı ve yönlendirme yapısını sadeleştirdim.
@@ -27,7 +27,7 @@ Bugün, GPS destekli sürü yönetimi, hayvan kayıtları, hayvan pazarları, ve
 
 ---
 
-## Mobil Kullanıcı Deneyimi
+### Mobil Kullanıcı Deneyimi
 
 - Android cihazın geri tuşunu WebView geçmişiyle ilişkilendirdim.
 - Kullanıcının uygulama içerisinde ziyaret ettiği sayfalar arasında geri tuşuyla dolaşabilmesini sağladım.
@@ -37,7 +37,7 @@ Bugün, GPS destekli sürü yönetimi, hayvan kayıtları, hayvan pazarları, ve
 
 ---
 
-## Bildirim Altyapısının Geliştirilmesi
+### Bildirim Altyapısının Geliştirilmesi
 
 - Expo üzerinden alınan bildirim anahtarını (Expo Push Token) canlı Django sistemine gönderen bağlantıyı geliştirdim.
 - Kullanıcı bildirim izni verdiğinde cihazın ilgili kullanıcı hesabıyla eşleştirilmesini sağladım.
@@ -46,7 +46,7 @@ Bugün, GPS destekli sürü yönetimi, hayvan kayıtları, hayvan pazarları, ve
 
 ---
 
-## Django Tarafındaki Geliştirmeler
+### Django Tarafındaki Geliştirmeler
 
 - Mobil cihazların sisteme kaydedilebilmesi için yeni bir API endpoint'i oluşturdum.
 - Endpoint üzerinde kullanıcı oturumu doğrulaması ekledim.
@@ -55,7 +55,7 @@ Bugün, GPS destekli sürü yönetimi, hayvan kayıtları, hayvan pazarları, ve
 
 ---
 
-## Test ve Doğrulama
+### Test ve Doğrulama
 
 - Mobil cihaz kayıt işlemi için otomatik Django testleri yazdım.
 - Projede bulunan toplam **49 testin** başarıyla tamamlandığını doğruladım.
