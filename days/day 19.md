@@ -32,7 +32,6 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 - İkinci telefon numarasının yönetim panelinden eklenebilmesini ve düzenlenebilmesini sağladım.
 - Böylece yeni telefon numarasının kod değişikliği yapılmadan yönetilebilmesini sağladım.
 
----
 
 ### İletişim Sayfasının Düzenlenmesi
 
@@ -42,7 +41,7 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 
 ---
 
-## Footer Bölümünün Güncellenmesi
+### Footer Bölümünün Güncellenmesi
 
 - Footer bölümündeki iletişim alanını güncelledim.
 - İkinci telefon numarasının sayfanın alt kısmında da görüntülenmesini sağladım.
@@ -50,14 +49,14 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 
 ---
 
-## Telefon Bağlantılarının Düzenlenmesi
+### Telefon Bağlantılarının Düzenlenmesi
 
 - Telefon numaralarının bağlantılarda sorunsuz çalışabilmesi için numaraların içerisindeki boşlukları ve özel karakterleri temizleyen bir yapı hazırladım.
 - Böylece ziyaretçiler telefon numarasına tıkladığında cihazın telefon uygulamasının doğrudan açılmasını sağladım.
 
 ---
 
-## Test ve Doğrulama
+### Test ve Doğrulama
 
 - Geliştirdiğim özellik için gerekli testleri ekledim.
 - İkinci telefon numarası bulunduğunda iletişim sayfasında doğru şekilde görüntülendiğini doğruladım.
@@ -65,7 +64,7 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 
 ---
 
-## Yayınlama Süreci
+### Yayınlama Süreci
 
 - Yaptığım değişiklikleri Git ile **"İkinci telefon desteği ekle"** açıklamasıyla kaydettim.
 - Güncellemeleri GitHub üzerindeki **main** dalına gönderdim.
@@ -77,7 +76,7 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 
 ---
 
-## Elde Edilen Sonuç
+### Elde Edilen Sonuç
 
 Bu çalışma sonucunda **altınertoptan.com** web sitesine yönetim paneli üzerinden kontrol edilebilen, isteğe bağlı olarak kullanılabilen ve tıklanabilir bağlantılarla çalışan ikinci telefon numarası desteği kazandırdım. Böylece firmanın ziyaretçilere birden fazla iletişim numarası sunabilmesi sağlanırken, sistemin yönetilebilirliği ve kullanıcı deneyimi de geliştirilmiş oldu.
 
