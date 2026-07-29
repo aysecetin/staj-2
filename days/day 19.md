@@ -7,7 +7,6 @@
 
 Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesinin iletişim altyapısını geliştirerek yönetim panelinden kontrol edilebilen ikinci telefon numarası desteği ekledim. Böylece firma, ihtiyaç duyduğunda birden fazla telefon numarasını ziyaretçilere sunabilecek ve tüm iletişim bilgilerini tek bir panel üzerinden yönetebilecek hale geldi.
 
----
 
 ### Mevcut Yapının İncelenmesi
 
@@ -15,7 +14,7 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 - Telefon bilgilerinin **SiteSetting** modeli üzerinden yönetildiğini tespit ettim.
 - Yeni özelliği mevcut yapıya uygun şekilde geliştirmeye karar verdim.
 
----
+
 
 ### Veritabanı ve Model Güncellemesi
 
@@ -24,7 +23,6 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 - İkinci telefon numarası girilmediğinde sitede boş bir telefon kartının görüntülenmesini engelledim.
 - Model değişikliğini veritabanına uygulamak için **0007_sitesetting_secondary_phone.py** isimli migration dosyasını oluşturdum.
 
----
 
 ### Yönetim Panelinin Güncellenmesi
 
@@ -39,7 +37,7 @@ Bugün, **Altıner Toptan** (**altınertoptan.com**) kurumsal tedarik web sitesi
 - İkinci telefon numarası girildiğinde mevcut telefon numarasının yanında veya altında ayrı bir iletişim seçeneği olarak gösterilmesini sağladım.
 - İkinci telefon numarası girilmediğinde ilgili alanın otomatik olarak gizlenmesini sağlayarak arayüzün düzenli görünmesini sağladım.
 
----
+
 
 ### Footer Bölümünün Güncellenmesi
 
